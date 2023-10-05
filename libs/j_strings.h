@@ -2,8 +2,7 @@
 #define J_STRINGS_H
 
 // V 1.3
-
-#include "../aloca.h"
+#include "../ep01/aloca.h"
 
 // Retorna o tamano da string
 int str_len(char *string)

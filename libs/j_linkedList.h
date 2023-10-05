@@ -5,7 +5,7 @@
 
 #include<stdbool.h>
 #include "./j_strings.h"
-#include "../aloca.h"
+#include "../ep01/aloca.h"
 #include "./j_transform.h"
 
 

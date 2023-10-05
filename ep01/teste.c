@@ -1,5 +1,5 @@
-#include "aloca.h"
-#include "libs/j_linkedList.h"
+#include "./aloca.h"
+#include "../libs/j_linkedList.h"
 
 int main(void) {
   // teoricamente se um utf8 consome mais de um byte
